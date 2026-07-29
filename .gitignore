@@ -25,3 +25,4 @@ config/secrets.yml
 
 # IDE settings
 /.idea
+/.project
